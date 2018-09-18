@@ -11,7 +11,7 @@ public class Stopwatch implements ActionListener {
 
 	public Stopwatch() {
 		// Creates a new JFrame container.
-		JFrame jfrm = new jfrm("A Simple Stopwatch");
+		JFrame jfrm = new JFrame("A Simple Stopwatch");
 
 		// Specifies FlowLayout (not the default) for the layout manager.
 		jfrm.setlayout(new FlowLayout());
