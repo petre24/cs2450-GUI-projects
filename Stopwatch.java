@@ -14,7 +14,7 @@ public class Stopwatch implements ActionListener {
 		JFrame jfrm = new JFrame("A Simple Stopwatch");
 
 		// Specifies FlowLayout (not the default) for the layout manager.
-		jfrm.setlayout(new FlowLayout());
+		jfrm.setLayout(new FlowLayout());
 
 		// Gives the frame an initial size.
 		jfrm.setSize(240, 100);
