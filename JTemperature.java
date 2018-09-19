@@ -1,7 +1,7 @@
 //
 //	Name:    	 Quintua, Petre
 //	Project: 	 1
-//	Due:	 	 September 18, 2018
+//	Due:	 	 September 19, 2018
 //	Course:  	 CS-2450-01-F18
 //
 //	Description: This is a simple temperature converted class that will convert
